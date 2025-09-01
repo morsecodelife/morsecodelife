@@ -11,10 +11,6 @@ I’m Morse, a full-stack developer who enjoys working across both software and 
 
 Here on GitHub, you’ll find experiments, side projects, and learning notes that reflect my curiosity across these areas.
 
----
-
-## GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsecodelife&layout=compact&theme=default&hide_border=true)
 
 ---
