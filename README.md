@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Nuttapong Chimwai, 🎂 1995
 
-[![GitHub followers](https://img.shields.io/github/followers/morsecodelife?label=Followers&style=for-the-badge&color=ff6f00&labelColor=6a0dad)](https://github.com/morsecodelife)
-[![Profile Views](https://komarev.com/ghpvc/?username=morsecodelife&style=for-the-badge&color=ff6f00&label=Profile%20Views)](https://github.com/morsecodelife)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-ff6f00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6a0dad)](https://morsecodelife.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/morsecodelife?label=Followers&style=flat&color=ff6f00&labelColor=6a0dad)](https://github.com/morsecodelife)
+[![Profile Views](https://komarev.com/ghpvc/?username=morsecodelife&style=flat&color=ff6f00&label=Profile%20Views)](https://github.com/morsecodelife)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-ff6f00?style=flat&logo=vercel&logoColor=white&labelColor=6a0dad)](https://morsecodelife.vercel.app)
 
 ---
 
