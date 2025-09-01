@@ -15,7 +15,6 @@ Here on GitHub, you’ll find experiments, side projects, and learning notes tha
 
 ## GitHub Stats
 
-![Morse's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsecodelife&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsecodelife&layout=compact&theme=default&hide_border=true)
 
 ---
